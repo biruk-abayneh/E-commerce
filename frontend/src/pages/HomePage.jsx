@@ -47,7 +47,7 @@ const HomePage = () => {
             {/* Column 1: Personality / Bio */}
             <div className="space-y-3 text-center md:text-left">
               <h3 className="text-xl font-bold text-emerald-400 tracking-wide font-mono">
-                &lt;BuiltByMe /&gt;
+                &lt;Built by Biruk Abayneh /&gt;
               </h3>
               <p className="text-gray-400 max-w-sm text-sm sm:text-base leading-relaxed mx-auto md:mx-0">
                 Designed, engineered, and fueled by clean code. Bringing
